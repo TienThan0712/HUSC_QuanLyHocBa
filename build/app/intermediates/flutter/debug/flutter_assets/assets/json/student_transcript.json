@@ -1,0 +1,992 @@
+[
+    {
+        "student" : {
+            "studentCode" : "18T1021334",
+            "fullName" : "Nguyễn Đôn Kim Trung",
+            "dateOfBirth" : "19/03/2000",
+            "gender" : true,
+            "address" : "Thừa Thiên Huế"
+        },
+        "studentGrade10Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        },
+        "studentGrade11Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        },
+        "studentGrade12Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        }
+    },
+    {
+        "student" : {
+            "studentCode" : "18T1021335",
+            "fullName" : "Thân Trọng Tiến",
+            "dateOfBirth" : "19/03/2000",
+            "gender" : true,
+            "address" : "Thừa Thiên Huế"
+        },
+        "studentGrade10Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        },
+        "studentGrade11Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        },
+        "studentGrade12Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        }
+    },
+    {
+        "student" : {
+            "studentCode" : "18T1021336",
+            "fullName" : "Phan Hoàng Long",
+            "dateOfBirth" : "19/03/2000",
+            "gender" : true,
+            "address" : "Thừa Thiên Huế"
+        },
+        "studentGrade10Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        },
+        "studentGrade11Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        },
+        "studentGrade12Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        }
+    },
+    {
+        "student" : {
+            "studentCode" : "18T1021333",
+            "fullName" : "Trần Thị Thảo Vân",
+            "dateOfBirth" : "19/03/2000",
+            "gender" : true,
+            "address" : "Thừa Thiên Huế"
+        },
+        "studentGrade10Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        },
+        "studentGrade11Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        },
+        "studentGrade12Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        }
+    },
+    {
+        "student" : {
+            "studentCode" : "18T1023352",
+            "fullName" : "Trương Viết Luỹ",
+            "dateOfBirth" : "19/03/2000",
+            "gender" : true,
+            "address" : "Thừa Thiên Huế"
+        },
+        "studentGrade10Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        },
+        "studentGrade11Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        },
+        "studentGrade12Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        }
+    },
+    {
+        "student" : {
+            "studentCode" : "18T1023592",
+            "fullName" : "Huỳnh Ngọc Duy",
+            "dateOfBirth" : "19/03/2000",
+            "gender" : true,
+            "address" : "Thừa Thiên Huế"
+        },
+        "studentGrade10Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        },
+        "studentGrade11Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        },
+        "studentGrade12Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        }
+    },
+    {
+        "student" : {
+            "studentCode" : "18T1029999",
+            "fullName" : "Lê Văn Hiếu",
+            "dateOfBirth" : "19/03/2000",
+            "gender" : true,
+            "address" : "Thừa Thiên Huế"
+        },
+        "studentGrade10Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        },
+        "studentGrade11Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        },
+        "studentGrade12Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        }
+    },
+    {
+        "student" : {
+            "studentCode" : "18T1021593",
+            "fullName" : "Trần Thị Minh Tâm",
+            "dateOfBirth" : "19/03/2000",
+            "gender" : true,
+            "address" : "Thừa Thiên Huế"
+        },
+        "studentGrade10Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        },
+        "studentGrade11Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        },
+        "studentGrade12Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        }
+    },
+    {
+        "student" : {
+            "studentCode" : "18T1021300",
+            "fullName" : "Châu Văn Nam",
+            "dateOfBirth" : "19/03/2000",
+            "gender" : true,
+            "address" : "Thừa Thiên Huế"
+        },
+        "studentGrade10Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        },
+        "studentGrade11Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        },
+        "studentGrade12Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        }
+    },
+    {
+        "student" : {
+            "studentCode" : "18T1021301",
+            "fullName" : "Nguyễn Văn Hùng",
+            "dateOfBirth" : "19/03/2000",
+            "gender" : true,
+            "address" : "Thừa Thiên Huế"
+        },
+        "studentGrade10Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        },
+        "studentGrade11Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        },
+        "studentGrade12Point" : {
+            "conduct" : "Tốt",
+            "subjectMarks" : [
+                {
+                    "subjectName" : "Ngữ văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Toán",
+                    "GPA" : 8.5,
+                    "isMainSubject" : true
+                },
+                {
+                    "subjectName" : "Anh văn",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Địa lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                },
+                {
+                    "subjectName" : "Vật lý",
+                    "GPA" : 8.5,
+                    "isMainSubject" : false
+                }
+            ]
+        }
+    }
+]

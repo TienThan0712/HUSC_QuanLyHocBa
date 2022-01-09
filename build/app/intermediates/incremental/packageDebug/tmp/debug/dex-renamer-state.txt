@@ -1,0 +1,4 @@
+#Mon Jan 10 05:33:50 ICT 2022
+base.0=E\:\\. Net\\Archive\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
